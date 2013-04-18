@@ -44,3 +44,11 @@ you want to deliver, not what other things you have on your agenda.
 
 * Measure time spent on bug fixing. If it goes beyond 15 percent take a sharp look what is happening with
 your software.
+
+So why not simply give non important bugs a low priority and keep them in the list? Why not say: "Hey,
+if one has nothing to do: just pick a bug from the "non-important" pool." For me this would be a statement
+like "We provide a quality level that depends on the time that is left over". 
+It is also unclear if this sort of bugs should be part of a "open bugs" statistic. More: In the 
+unlikely case that someone would have time left over: What bug would she select? How would she choose from
+the list of 100k bugs?
+So just close these bugs and enjoy the pleasures of the real, lean bug list.  
